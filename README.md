@@ -1,2 +1,2 @@
 # Personal_Project
-JAVA의 GUI를 활용해서 만든 게임입니다.
+JAVAのGUIを活用して作ったゲームです.
